@@ -1,0 +1,24 @@
+table.tablica {
+  border: 2px solid black;
+  width: 50%;
+  text-align: center;
+  border-collapse: collapse;
+}
+table.tablica td, table.tablica th {
+  border: 1px solid black;
+  padding: 5px;
+}
+table.tablica tbody td {
+  background: #e6ecff;
+  font-size: 20px;
+}
+table.tablica thead {
+  background: lightblue;
+  border-bottom: 2px solid black;
+}
+table.tablica thead th {
+  font-size: 20px;
+  font-weight: bold;
+  color: purple;
+  text-align: center;
+}
